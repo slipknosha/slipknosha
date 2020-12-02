@@ -25,6 +25,7 @@
 
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2779/2779266.svg" alt="circuit" width="40" height="40"/> </a> Electronic Circuit Design <br> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2824/2824770.svg" alt="MCU" width="40" height="40"/> </a> MCU's Programming <br> <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt14R6nvWCScODGt9i3BXN4kvRKAJUCL7tDA&usqp=CAU" alt="solder" width="40" height="40"/> </a> Soldering <br> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2399/2399632.svg" alt="PCB" width="40" height="40"/> </a> PCB Design <br> </p>
+<p align="left"> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2779/2779266.svg" alt="circuit" width="40" height="40"/> </a> Electronic Circuit Design <br> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2824/2824770.svg" alt="MCU" width="40" height="40"/> </a> MCU's Programming <br> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2399/2399632.svg" alt="PCB" width="40" height="40"/> </a> PCB Design <br> <a> <img src="https://icon-library.com/images/raspberry-pi-icon/raspberry-pi-icon-20.jpg" alt="drivers" width="40" height="40"/> </a> Drivers Developing <br> <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt14R6nvWCScODGt9i3BXN4kvRKAJUCL7tDA&usqp=CAU" alt="solder" width="40" height="40"/> </a> Soldering <br> </p>
+
 
 

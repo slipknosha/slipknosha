@@ -9,7 +9,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="26px" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_facebook_fb_35.png" />][facebook]
 
 <br />
@@ -17,13 +17,13 @@
 ### Languages and Tools:
 
 [<img align="left" alt="The C Programming Language" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" />]
-[<img align="left" alt="C++" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />]
-[<img align="left" alt="Bash" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170080.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Kernel" width="26px" src="https://cdn.icon-icons.com/icons2/151/PNG/256/kernel_photoshop_filetypes_21686.png" />]
-[<img align="left" alt="Linux" width="26px" src="https://cdn.icon-icons.com/icons2/39/PNG/128/linux_configuration_hardware_6084.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="C++" width="40px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />]
+[<img align="left" alt="Bash" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170080.png" />]
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Kernel" width="40px" src="https://cdn.icon-icons.com/icons2/151/PNG/256/kernel_photoshop_filetypes_21686.png" />]
+[<img align="left" alt="Linux" width="40px" src="https://cdn.icon-icons.com/icons2/39/PNG/128/linux_configuration_hardware_6084.png" />]
+[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
 <br />

@@ -7,12 +7,15 @@
 - 👯 I’m looking to collaborate with other Embedded, Hardware Devs and Makers!
 - ⚡ Fun fact: I love to play guitar and play vido games!
 
+---
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="42px" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_facebook_fb_35.png" />][facebook]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -29,10 +32,7 @@
 <br />
 <br />
 
----
 
-
----
 
 </details>
 

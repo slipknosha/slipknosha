@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="42px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
+<img align="left" alt="C" width="42px" src="https://img.favpng.com/10/23/21/c-programming-language-icon-png-favpng-878WK0RF2zxn7b6TimT7zquZN.jpg" />
 <img align="left" alt="C++" width="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />
 <img align="left" alt="Bash" width="42px" src="https://img.stackshare.io/service/1673/bash-icon.png" />
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />

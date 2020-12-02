@@ -24,7 +24,7 @@
 
 <img align="left" alt="C" width="42px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
 <img align="left" alt="C++" width="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />
-<img align="left" alt="Bash" width="42px" src="https://mpng.subpng.com/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" />
+<img align="left" alt="Bash" width="42px" src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" />
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Kernel" width="42px" src="https://cdn.icon-icons.com/icons2/151/PNG/256/kernel_photoshop_filetypes_21686.png" />
 <img align="left" alt="Linux" width="42px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" />

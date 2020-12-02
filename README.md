@@ -22,9 +22,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="42px" src="https://e7.pngegg.com/pngimages/666/496/png-clipart-toccafondi-mario-c-snc-computer-icons-c-icon-cdr-angle.png" />
+<img align="left" alt="C" width="42px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
 <img align="left" alt="C++" width="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />
-<img align="left" alt="Bash" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170080.png" />
+<img align="left" alt="Bash" width="42px" src="https://mpng.subpng.com/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" />
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Kernel" width="42px" src="https://cdn.icon-icons.com/icons2/151/PNG/256/kernel_photoshop_filetypes_21686.png" />
 <img align="left" alt="Linux" width="42px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" />

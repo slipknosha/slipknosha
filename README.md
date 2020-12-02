@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="26px" src="https://e7.pngegg.com/pngimages/666/496/png-clipart-toccafondi-mario-c-snc-computer-icons-c-icon-cdr-angle.png" />
+<img align="left" alt="C" width="42px" src="https://e7.pngegg.com/pngimages/666/496/png-clipart-toccafondi-mario-c-snc-computer-icons-c-icon-cdr-angle.png" />
 <img align="left" alt="C++" width="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />
 <img align="left" alt="Bash" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170080.png" />
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />

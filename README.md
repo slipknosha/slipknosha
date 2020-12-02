@@ -25,4 +25,6 @@
 
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2779/2779266.svg" alt="circuit" width="40" height="40"/> </a> Electronic Circuit Design <br> <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt14R6nvWCScODGt9i3BXN4kvRKAJUCL7tDA&usqp=CAU" alt="solder" width="40" height="40"/> </a> Soldering <br> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2399/2399632.svg" alt="PCB" width="40" height="40"/> </a> PCB Design <br> </p>
+<p align="left"> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2779/2779266.svg" alt="circuit" width="40" height="40"/> </a> Electronic Circuit Design <br> <a> <img src="https://img.directindustry.com/images_di/photo-g/23457-2589679.jpg" alt="MCU" width="40" height="40"/> </a> MCU's Programming <br> <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt14R6nvWCScODGt9i3BXN4kvRKAJUCL7tDA&usqp=CAU" alt="solder" width="40" height="40"/> </a> Soldering <br> <a> <img src="https://www.flaticon.com/svg/static/icons/svg/2399/2399632.svg" alt="PCB" width="40" height="40"/> </a> PCB Design <br> </p>
+
+

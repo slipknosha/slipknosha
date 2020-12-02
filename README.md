@@ -25,3 +25,4 @@
 
 
 <h3 align="left">Skills:</h3>
+<p align="left"> <a> <img src="https://cdn.icon-icons.com/icons2/1261/PNG/512/1496676743-rounded-high-ultra-colour10-circuit-board_84619.png" alt="circuit" width="40" height="40"/> </a> - Electronic Circuit Design <br> </p>

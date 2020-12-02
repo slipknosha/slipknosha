@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav and I am from Ukraine, Lviv City</h1>
-<h3 align="center">I am an Embedded Hardware/Software Engineer</h3>
+<h3 align="center">I am an Embedded Hardware/Software Engineer, Student and Teacher!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slipknosha&label=Profile%20views&color=0e75b6&style=flat-square" alt="slipknosha" /> </p>
 

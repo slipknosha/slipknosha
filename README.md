@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Smart_Growing_Lamp**
 
-- 🌱 I’m currently learning **Assembler, C/C++, FreeRTOS, Linux Kernel, Java**
+- 🌱 I’m currently learning **C/C++, FreeRTOS, Linux Kernel**
 
 - 👯 I’m looking to collaborate on **Embedded Devs and Makers**
 

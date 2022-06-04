@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vladyslav and I am from Ukraine, Lviv City</h1>
-<h3 align="center">I am an Embedded Hardware/Software Engineer!</h3>
+<h1 align="center">Hi 👋, I'm Vladyslav and I am from Ukraine, Lviv</h1>
+<h3 align="center">I am an Embedded Engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slipknosha&label=Profile%20views&color=0e75b6&style=flat-square" alt="slipknosha" /> </p>
 
-- 🔭 I’m currently working on **Smart_Growing_Lamp**
+- 🔭 I’m currently working on **Smart Leak Sensor based on ESP32**
 
-- 🌱 I’m currently learning **C/C++, FreeRTOS, Linux Kernel**
+- 🌱 I’m currently learning **C/C++, analog and digital elecntronics**
 
-- 👯 I’m looking to collaborate on **Embedded Devs and Makers**
+- 👯 I’m looking to collaborate on **Embedded Engineer and Makers**
 
 - 📫 How to reach me **vladislaw.bobrikov@gmail.com**
 
-- ⚡ Fun fact **I like to play guitar and video games**
+- ⚡ Fun fact **I like to play guitar, video games, study electronics, go out to nature with frinds and live in camp, fishing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
